@@ -1,0 +1,74 @@
+body
+{
+	margin-left:20px;
+}
+.t{
+	
+	background-image:url("bg1.jpg");
+	height: 600px;
+
+}
+.i{
+
+float:left;
+width:40%;
+
+}
+.iw
+{
+	float:right;
+	overflow:hidden;
+}
+.con
+{
+	width:30%;
+	margin:50px;
+background-color:whitesmoke;
+
+}
+.r
+{
+	overflow:hidden;
+	
+}
+
+
+.table2
+{
+	float:left;
+	overflow:hidden;
+}
+.foter
+{
+	background-color:black;
+	height:1200px;
+}
+
+.fq
+{
+	color:white;
+	margin:60px;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
